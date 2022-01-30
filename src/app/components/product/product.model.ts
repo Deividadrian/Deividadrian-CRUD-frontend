@@ -1,6 +1,5 @@
 export interface Product {
-  id?:number
+  id?: number
   name: string
-  date: number
   price: number  
 }
