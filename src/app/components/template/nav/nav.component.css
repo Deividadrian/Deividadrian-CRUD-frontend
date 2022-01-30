@@ -1,0 +1,17 @@
+.sidenav {
+  background: var(--sad-nav-color);
+  width: 9.8rem;
+}
+
+.sidenav a {
+  color: var(--base-font-color);
+}
+
+.sidenav i {
+  padding-right: 0.625rem;
+}
+
+.content {
+  padding: 1rem;
+  background: white;
+}
