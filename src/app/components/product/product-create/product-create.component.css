@@ -1,0 +1,7 @@
+.cancel {
+  margin-left: 0.5rem;
+}
+
+.save {
+  background: var(--base-color);
+}
