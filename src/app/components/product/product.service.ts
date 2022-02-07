@@ -21,7 +21,7 @@ export class ProductService {
     })
   }
 
-  create(product: Product): Observable<Product> {
+  create(product: Product): Observable<Product> {// This function is responsible for including a new product in the backend 
     return this.http.post<Product>(this.baseUrl, product)
   }
 }
