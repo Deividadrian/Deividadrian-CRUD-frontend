@@ -1,3 +1,7 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
 .cancel {
   margin-left: 0.5rem;
 }
